@@ -1,4 +1,3 @@
-#搜尋引擎優化
-methods:Java GoogleAPI JSP
-Data Structure demo
-
+# google搜尋引琴優化
+Backend:Java
+FrontEnd:JSX
